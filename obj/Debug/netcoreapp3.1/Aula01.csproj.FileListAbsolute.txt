@@ -1,0 +1,21 @@
+C:\Users\etec\Desktop\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.exe
+C:\Users\etec\Desktop\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.deps.json
+C:\Users\etec\Desktop\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.runtimeconfig.json
+C:\Users\etec\Desktop\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.runtimeconfig.dev.json
+C:\Users\etec\Desktop\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.dll
+C:\Users\etec\Desktop\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.pdb
+C:\Users\etec\Desktop\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.AssemblyInfo.cs
+C:\Users\etec\Desktop\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.dll
+C:\Users\etec\Desktop\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.pdb
+F:\etec curso\Etec Curso 3módulo\TQS\Aula 1\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.exe
+F:\etec curso\Etec Curso 3módulo\TQS\Aula 1\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.deps.json
+F:\etec curso\Etec Curso 3módulo\TQS\Aula 1\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.runtimeconfig.json
+F:\etec curso\Etec Curso 3módulo\TQS\Aula 1\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.runtimeconfig.dev.json
+F:\etec curso\Etec Curso 3módulo\TQS\Aula 1\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.dll
+F:\etec curso\Etec Curso 3módulo\TQS\Aula 1\Aula01\Aula01\bin\Debug\netcoreapp3.1\Aula01.pdb
+F:\etec curso\Etec Curso 3módulo\TQS\Aula 1\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.csprojAssemblyReference.cache
+F:\etec curso\Etec Curso 3módulo\TQS\Aula 1\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.AssemblyInfoInputs.cache
+F:\etec curso\Etec Curso 3módulo\TQS\Aula 1\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.AssemblyInfo.cs
+F:\etec curso\Etec Curso 3módulo\TQS\Aula 1\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.dll
+F:\etec curso\Etec Curso 3módulo\TQS\Aula 1\Aula01\Aula01\obj\Debug\netcoreapp3.1\Aula01.pdb
